@@ -6,7 +6,7 @@ function Y = identity(X)
 %  added comment from a new release. check if rake task gets it
 %   https://en.wikipedia.org/wiki/Identity_function
 % change from 23b pre-release
-% test comment for bash updated for 8/20/26 bash 8/21
+% test comment for bash updated for 8/20/26 bash 8/21 2.0
 
     Y = X;
 end
